@@ -1,0 +1,7 @@
+---
+create_containers: 1
+default_container_name: docker
+default_container_image: devopsedu/webapp
+default_container_command: sleep 1d
+sudo: yes
+sudo_user: root
